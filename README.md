@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🎯 **Try it here:** [Product Pricing Calculator (Live)](https://productpricingcalculator-fvbkd9h2evaxhxaw.germanywestcentral-01.azurewebsites.net/)
+🎯 **Try it here:** [Product Pricing Calculator (Live)](https://productpricingcalculator.onrender.com/)
 
 ---
 
